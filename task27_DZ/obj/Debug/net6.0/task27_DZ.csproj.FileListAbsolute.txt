@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\bin\Debug\net6.0\task27_DZ.exe
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\bin\Debug\net6.0\task27_DZ.deps.json
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\bin\Debug\net6.0\task27_DZ.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\bin\Debug\net6.0\task27_DZ.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\bin\Debug\net6.0\task27_DZ.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\refint\task27_DZ.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\task27_DZ.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task27_DZ\obj\Debug\net6.0\ref\task27_DZ.dll
