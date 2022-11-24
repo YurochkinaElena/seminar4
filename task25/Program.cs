@@ -21,7 +21,7 @@ int Exponentiation(int num1, int num2)
 if (b > 0)
 {
 int exponentiation = Exponentiation(a, b);
-Console.WriteLine($"Число {a} в степени {b} ----> {exponentiation}");
+Console.WriteLine($"Число {a} в степени {b} ---> {exponentiation}");
 }
 else Console.WriteLine("Введите вещественное число");
 
