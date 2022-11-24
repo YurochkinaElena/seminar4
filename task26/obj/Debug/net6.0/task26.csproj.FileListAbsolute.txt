@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\bin\Debug\net6.0\task26.exe
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\bin\Debug\net6.0\task26.deps.json
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\bin\Debug\net6.0\task26.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\bin\Debug\net6.0\task26.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\refint\task26.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar4\task26\obj\Debug\net6.0\ref\task26.dll
